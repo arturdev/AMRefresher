@@ -23,7 +23,7 @@ Copy the AMRefresher folder to your project.
 
 ## Usage
 
-Adding PullToRefresh and InfiniteScroll to any <b>UIScrollView</b> is pretty easy: 
+Adding PullToRefresh and InfiniteScrolling to any <b>UIScrollView</b> is pretty easy: 
 
 ```Swift
 override func viewDidLoad() {
