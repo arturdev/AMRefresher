@@ -39,7 +39,7 @@ tableView.am.pullToRefreshView?.trigger()
 
 ## Customization
 
-Both `AMPullToRefreshViewView` and `AMInfiniteScrollingView` have public method 
+Both `AMPullToRefreshView` and `AMInfiniteScrollingView` have public method 
 ```Swift
 public func setCustomView(_ view: UIView, for state: AM.State)
 ```
