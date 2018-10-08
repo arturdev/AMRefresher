@@ -54,6 +54,10 @@ If you’d like to programmatically trigger the refresh (for instance in viewDid
 tableView.am.pullToRefreshView?.trigger()
 ```
 
+## IMPORTANT NOTE
+
+If you want to change the contentInset of the ScrollView, do that **BEFORE** adding pullToRefresh or infiniteScrolling.
+
 ## Customization
 
 Both `AMPullToRefreshView` and `AMInfiniteScrollingView` have public method 
