@@ -61,3 +61,15 @@ Both `AMPullToRefreshView` and `AMInfiniteScrollingView` have public method
 public func setCustomView(_ view: UIView, for state: AM.State)
 ```
 So you can call this method and pass any UIView you want to show for each state.
+
+
+## Author
+
+arturdev, mkrtarturdev@gmail.com
+
+Feel free to open issues, feature requests and point bugs/mistakes!
+
+## License
+
+SwiftyCodeView is available under the MIT license. See the LICENSE file for more info.
+
