@@ -1,8 +1,25 @@
+[![Version](https://img.shields.io/cocoapods/v/AMRefresher.svg?style=flat)](https://cocoapods.org/pods/AMRefresher)
+[![License](https://img.shields.io/cocoapods/l/AMRefresher.svg?style=flat)](https://cocoapods.org/pods/AMRefresher)
+[![Platform](https://img.shields.io/cocoapods/p/AMRefresher.svg?style=flat)](https://cocoapods.org/pods/AMRefresher)
+
+
 # AMRefresher
 Super easy way to use "Pull To Refresh" and "Infinite Scrolling" with 1 line of code
 
 <img src="https://raw.githubusercontent.com/arturdev/AMRefresher/master/demo.gif">
 
+## Installation
+
+SwiftyCodeView is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'AMRefresher'
+```
+
+Or
+
+Copy the AMRefresher folder to your project.
 
 ## Usage
 
