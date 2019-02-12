@@ -162,7 +162,7 @@ open class AMPullToRefreshView: UIView {
         contentView.frame = bounds
         state = .stopped
         
-        let activityIndicator = UIActivityIndicatorView(activityIndicatorStyle: .gray)
+        let activityIndicator = UIActivityIndicatorView(style: .gray)
         activityIndicator.hidesWhenStopped = true
         activityIndicator.startAnimating()
         setCustomView(activityIndicator, for: .loading)
