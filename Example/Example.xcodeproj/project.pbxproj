@@ -114,7 +114,7 @@
 				TargetAttributes = {
 					754CF1CA216B849000D426B0 = {
 						CreatedOnToolsVersion = 9.4.1;
-						LastSwiftMigration = 1010;
+						LastSwiftMigration = 1030;
 					};
 				};
 			};
@@ -312,7 +312,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.arturdev.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -331,7 +331,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.arturdev.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
