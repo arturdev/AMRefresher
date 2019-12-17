@@ -1,3 +1,6 @@
+Note: This project is no longer maintained.
+
+
 [![Version](https://img.shields.io/cocoapods/v/AMRefresher.svg?style=flat)](https://cocoapods.org/pods/AMRefresher)
 [![License](https://img.shields.io/cocoapods/l/AMRefresher.svg?style=flat)](https://cocoapods.org/pods/AMRefresher)
 [![Platform](https://img.shields.io/cocoapods/p/AMRefresher.svg?style=flat)](https://cocoapods.org/pods/AMRefresher)
